@@ -1,4 +1,4 @@
-# Card-Validator
+# Validador de Cartão de Crédito
 Validador de dados de cartões de crédito
 
 **Esta biblioteca se destina à validação de números de CPF, para uso em aplicações web.**
