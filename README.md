@@ -18,7 +18,7 @@ The library will be tested through the function cardValidator().
 
 ```shell
 
-$  npm install validatorcpf-lib
+$  npm install cardvalidatorcarb
 
 ```
 
@@ -27,8 +27,8 @@ $  npm install validatorcpf-lib
 
 ```node
 
-> const writtenNumber = require("validatorcpf-lib");
-> console.log(writtenNumber(11))
+> const validator = require("cardvalidatorcarb");
+> validator.cardValidator('4485298509193153')
 > // returns "true"
 
 ```

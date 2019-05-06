@@ -1,8 +1,8 @@
 {
-  "name": "card-validator",
+  "name": "cardvalidatorcarb",
   "version": "1.0.0",
   "description": "Validador de dados de cartões de crédito",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "nyc mocha"
   },
